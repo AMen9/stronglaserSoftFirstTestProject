@@ -2,7 +2,7 @@
 #include <QGraphicsItem>
 #include <QPainter>
 #include <qdebug.h>
-
+//Hello World
 //void mysplineItem:://构造函数
 mysplineItem::mysplineItem(QVector <double> kv,
                            QVector <double> cpx,
